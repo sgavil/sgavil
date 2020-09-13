@@ -18,10 +18,6 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sgavil&layout=compact)](https://github.com/sgavil/github-readme-stats)
-
-<br />
-
 ---
 
 
